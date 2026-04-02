@@ -22,21 +22,21 @@ I work in the intersection of cryptography, offensive security, and AI. Currentl
 
 | | |
 |---|---|
-| 🥈 **2nd Place Worldwide** | Global CPTC 2025 — AI Security Lead |
-| 🥇 **1st Place** | Arab Security Cyber Wargames 2025 — 426 Teams |
+| 🥈 **2nd Place Worldwide** | Global CPTC 2025, AI Security Lead |
+| 🥇 **1st Place** | Arab Security Cyber Wargames 2025, 426 Teams |
 | 🌐 **16th Place Globally** | Black Hat MEA CTF 2024 |
-| 🛡️ **4th Place** | NCSC CTF 2024 — National |
+| 🛡️ **4th Place** | NCSC CTF 2024, National |
 | 🏆 **85+ CTF Challenges Authored** | Used across PSUT CTFs, PwnSec CTF, Playgrounds CTF, META |
 | 👥 **800+ Students Reached** | As President of PSUT Cybersecurity Club |
-| 📜 **eWPTX Certified** | Web Application Penetration Tester eXtreme — eLearnSecurity |
+| 📜 **eWPTX Certified** | Web Application Penetration Tester eXtreme, eLearnSecurity |
 
 ---
 
 ## What I'm Building
 
-**[MedZK](https://medzk.aobeidat.com)** — Privacy-preserving medical research platform. Researchers verify patient eligibility using ZK-STARK proofs without ever seeing raw health records. 3-org Hyperledger Fabric network, TSS oracle layer, full production deployment.
+**[MedZK](https://medzk.aobeidat.com):** Privacy-preserving medical research platform. Researchers verify patient eligibility using ZK-STARK proofs without ever seeing raw health records. 3-org Hyperledger Fabric network, TSS oracle layer, full production deployment.
 
-**ZKP CTF Challenge** — A 9/10 difficulty CTF challenge combining Pedersen commitments, Bulletproof inner product arguments, and a truncated LCG lattice attack. Players get a PyInstaller ELF and no source. Solving it requires LLL + BSGS.
+**ZKP CTF Challenge:** A 9/10 difficulty CTF challenge combining Pedersen commitments, Bulletproof inner product arguments, and a truncated LCG lattice attack. Players get a PyInstaller ELF and no source. Solving it requires LLL + BSGS.
 
 ---
 
@@ -58,16 +58,16 @@ I work in the intersection of cryptography, offensive security, and AI. Currentl
 
 | Repo | Description |
 |---|---|
-| [My-CTF-Challenges](https://github.com/ahmdobeidat/My-CTF-Challenges) | 85+ original CTF challenges — ECC, RSA, ZKP, LFSRs, binary exploitation. Used in PSUT CSC CTF, PwnSec CTF 2024, Playgrounds CTF 2024. |
-| [Embedded-Systems-Electric-Service-Dog](https://github.com/ahmdobeidat/Embedded-Systems-Electric-Service-Dog) | Microcontroller-based assistive device — an embedded system that mimics a service animal to support independent living. |
+| [My-CTF-Challenges](https://github.com/ahmdobeidat/My-CTF-Challenges) | 85+ original CTF challenges covering ECC, RSA, ZKP, LFSRs, and binary exploitation. Used in PSUT CSC CTF, PwnSec CTF 2024, Playgrounds CTF 2024. |
+| [Embedded-Systems-Electric-Service-Dog](https://github.com/ahmdobeidat/Embedded-Systems-Electric-Service-Dog) | Microcontroller-based assistive device, an embedded system that mimics a service animal to support independent living. |
 
 ---
 
 ## Writing & Talks
 
-- **[How Encrypted Messaging Apps Work](https://josa.ngo/blog/288)** — Technical breakdown of Signal Protocol, X3DH, Double Ratchet, and MTProto 2.0. Published on josa.ngo.
-- **Secrecy: From a Human Instinct to Science** — Talk at XPANDconf (1,300+ attendees) on the Arab scholars who invented cryptanalysis a thousand years before the internet.
-- **[Cryptography Notes](https://aobeidat.com/notes)** — Public notes on symmetric crypto, RSA, ECC, ZKPs, and PRNGs. Math-heavy, CTF-practical.
+- **[How Encrypted Messaging Apps Work](https://josa.ngo/blog/288):** Technical breakdown of Signal Protocol, X3DH, Double Ratchet, and MTProto 2.0. Published on josa.ngo.
+- **Secrecy: From a Human Instinct to Science:** Talk at XPANDconf (1,300+ attendees) on the Arab scholars who invented cryptanalysis a thousand years before the internet.
+- **[Cryptography Notes](https://aobeidat.com/notes):** Public notes on symmetric crypto, RSA, ECC, ZKPs, and PRNGs. Math-heavy, CTF-practical.
 
 ---
 
