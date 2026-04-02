@@ -63,6 +63,18 @@ I work in the intersection of cryptography, offensive security, and AI. Currentl
 
 ---
 
+## CTF Writeups
+
+| Challenge | Competition | Topic |
+|---|---|---|
+| [Justice — ECDSA Hidden Number Problem](https://aobeidat.com/blog/justice-ascwg-2025-ecdsa-hnp) | ASCWG 2025 | ECDSA nonce bias, lattice reduction, private key recovery |
+| [secret² — Bivariate Coppersmith](https://aobeidat.com/blog/secret2-l3ak-2025) | l3ak CTF 2025 | Bivariate Coppersmith over 1337-bit prime |
+| [Unbreakable — Pohlig-Hellman on TLS DHE](https://aobeidat.com/blog/unbreakable-ascwg-pohlig-hellman) | ASCWG 2024 | Smooth-order prime, discrete log, TLS traffic decryption |
+| [kleinvieh_2 — Cubic RSA & Coppersmith Variants](https://aobeidat.com/blog/kleinvieh2-coppersmith) | CTF | Five RSA schemes broken with Coppersmith |
+| [quickprime — LCG-generated RSA primes](https://aobeidat.com/blog/quickprime-lactf-2025) | LACTF 2025 | Related primes via LCG, 2-adic integer solving |
+
+---
+
 ## Writing & Talks
 
 - **[How Encrypted Messaging Apps Work](https://josa.ngo/blog/288):** Technical breakdown of Signal Protocol, X3DH, Double Ratchet, and MTProto 2.0. Published on josa.ngo.
